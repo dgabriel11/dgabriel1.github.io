@@ -17,4 +17,4 @@ Tiprui de link-uri in Markdown:
 
 #### Link-urile clasice
 
-[Textul link-ului](www.google.com) 
+[Textul link-ului](https://google.com) 
