@@ -15,6 +15,20 @@ Tiprui de link-uri in Markdown:
 1. Link-uri clasice (normale)
 2. Link-uri referentiate
 
-#### Link-urile clasice
+#### Link-urile clasice:
 
-[Textul link-ului](https://google.com) 
+<b>Variante:</b>
+[Textul link-ului](https://google.com "accesare site google")  
+
+#### Link-urile referentiale:
+
+Iata un [link][link1] catre site-ul google:
+
+[link1]: https://google.com
+
+Varianta prescurtata a link-urile referentiale:
+
+Iata un link [important] catre site-ul google:
+
+
+[important]: https://google.com
