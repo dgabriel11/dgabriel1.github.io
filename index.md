@@ -3,7 +3,7 @@
 <b>cuprins</b>:
 
 [Elemente avansate de Markdown](avansate.md)
-
+[formule cu mathjax](mathjax.md)
 
 
 # Implementarea relatiilor in Markdown
