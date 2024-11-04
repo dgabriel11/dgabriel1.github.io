@@ -43,4 +43,40 @@ Iata un link [important] catre site-ul google:
 
 #### Link-uri catre imagini
 
+<h1>Scrierea Matricelor</h1>
 
+$$
+A=
+\begin{pmatrix}
+a_{11}&a_{12}&a_{13}\\
+a_{21}&a_{22}&a_{23}\\
+a_{31}&a_{32}&a_{33}\\
+\end{pmatrix}
+$$
+
+
+<h2><i>Posibilitati:</i></h2>
+-`{pmatrix}`
+-`{vmatrix}`
+-`{bmatrix}`
+-`{Bmatrix}`
+-`{Vmatrix}`
+
+
+<h1>Scrierea sistemelor de ecuatii</h1>
+
+```LaTeX
+$$
+\begin{align}
+f(x)&=ax^2\\
+g(x)&=ax^2+bx^2
+\end{align}
+$$
+```
+
+$$
+\begin{align}
+f(x)&=ax^2\\
+g(x)&=ax^2+bx^2
+\end{align}
+$$
